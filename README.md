@@ -1,6 +1,6 @@
 # **Shoe Recommendation System**
 
-This shoe recommendation  system uses deep learning to recognize  and recommend the type of shoe in an image. 
+This shoe recommendation  system uses deep learning to recognize  and recommend the type of shoe in an image using the nearest neighbour algorithm 
 The system can recognize various types of shoes and make recommendation based on images uploaded from a file.
 
 ## **Pre-requisites**
@@ -29,6 +29,6 @@ To run the training notebook if you want to replicate this work, run the followi
 Then open the training notebook and run all the cells.
 
 ## **Run the Shoe Recommendation System**
-To run the shoe recognition system, run the following command in your terminal:
+To run the shoe recommendation system, run the following command in your terminal:
 
 ```streamlit run main.py```
